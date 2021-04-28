@@ -109,7 +109,6 @@ def pista5(Code):                                 #Crear funcion pista 5 (Dos nu
 Code = randomNumberLock()
 user_tries = 0
 user_code = []
-print(Code)
 
 sg.theme('BluePurple')
 
